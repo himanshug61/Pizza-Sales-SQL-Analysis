@@ -1,0 +1,26 @@
+🍕 Pizza Sales Analysis using SQL | MySQL
+
+I’m excited to share my latest Data Analytics portfolio project — Pizza Sales Analysis using SQL.
+
+In this project, I analyzed 2015 pizza sales data to uncover:
+• Total orders and revenue
+• Top-selling pizza types
+• Popular pizza sizes and categories
+• Order patterns by hour
+• Revenue contribution by category
+• Cumulative revenue trends
+• Top revenue-generating pizzas within each category
+
+🛠️ Tools & Skills:
+MySQL | SQL | Joins | Aggregations | Subqueries | Window Functions | Business Analysis
+
+📊 Key results:
+• 21,350 total orders
+• $817,860.05 total revenue
+• 138.47 average pizzas ordered per day
+• Classic category led overall quantity
+• Large size was the most ordered by quantity
+
+This project helped me strengthen my SQL and business-analysis skills and turn raw transactional data into actionable insights.
+
+#DataAnalytics #SQL #MySQL #DataAnalyst #Analytics #PortfolioProject #BusinessIntelligence #Learning
